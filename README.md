@@ -1,6 +1,6 @@
 <!-- HEADER WAVE -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:6C63FF&amp;height=220&amp;section=header&amp;text=Manish%20Kumar&amp;fontSize=75&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Full-Stack%20Dev&amp;descSize=18&amp;descColor=8B949E&amp;descAlignY=55" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:6C63FF&amp;height=220&amp;section=header&amp;text=Manish%20Kumar&amp;fontSize=75&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20and%20ML%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Full-Stack%20Dev&amp;descSize=18&amp;descColor=8B949E&amp;descAlignY=55" alt="Header"/>
 </p>
 
 <!-- TYPING ANIMATION -->
