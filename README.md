@@ -14,8 +14,8 @@
 
 <!-- ────────────── PORTFOLIO LINK ────────────── -->
 <div align="center">
-  <a href="https://smalok.github.io">
-    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-smalok.github.io-6C63FF?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
+  <a href="https://smalok.github.io/smalok/">
+    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-smalok.github.io/smalok-6C63FF?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
   </a>
 </div>
 
