@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=620&amp;height=100&amp;lines=Hey+there!+I'm+Manish+Kumar;AI+%7C+ML+%7C+DSA+%7C+Full+Stack+%7C+Cloud;Building+intelligent+solutions;From+India+with+Love" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=620&amp;height=100&amp;lines=Hey+there!+I'm+Manish+Kumar;AI+%7C+ML+%7C+DSA+%7C+Full+Stack+%7C+Cloud;Building+intelligent+solutions;From+India+with+Love" alt="Typing SVG"/>
 </p>
 
 <!-- PORTFOLIO BADGE -->
